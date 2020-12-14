@@ -1,8 +1,31 @@
 <h2><b> Hi, I am Ganpat Patel 💻😊<b> </h2>
+  
 
-I am always ready to grab new opportunities which helps me to grow myself. I always consider myself a learner who always wants to learn something new that adds a plus to my knowledge.<br>
+<a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
+  <img align="left" alt="Ganpat Patel| Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://ab007shetty.github.io/">
+  <img align="left" alt="Ganpat Patel| Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://troupertech.com">
+  <img align="left" alt="Ganpat Patel| Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/micro-dot-blog.svg" />
+</a>
+<a href="https://twitter.com/Ganpat_Patel_12/">
+  <img align="left" alt="Ganpat Patel| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ </a>
+ <a href="https://www.facebook.com/ganpatpatel.luni">
+  <img align="left" alt="Ganpat Patel| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+ </a>
+<a href="https://www.instagram.com/ganpat_patel_luni/">
+  <img align="left" alt="Ganpat Patel| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+
+I am always ready to grab new opportunities which helps me to grow myself. I always consider myself a learner who always wants to learn something new that adds a plus to my knowledge.<br><br>
 I am interested in <b>Python</b> and <b>Data Science</b>. Also, I like to <b>Web Development</b>.<br>
-I have learnt Wordpress on my own and created my own blog website. Check it out here: https://troupertech.com/
+I have learnt Wordpress on my own and created my own blog website. Check it out here: https://troupertech.com<br>
+<br>
 I am searching for new opportunities to explore and learn about these fields. 
 
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ganpat-patel-012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ganpat-patel-012.github.io/)
