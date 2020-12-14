@@ -57,7 +57,7 @@ I am searching for new opportunities to explore and learn about these fields.
 <br>
 
 - 🔭 I’m currently working on TapShip - Final year project.
-- 🌱 I’m currently learning Data Science (Medium) and React JS.
+- 🌱 I’m currently learning Data Science (Mid) and React JS.
 - 👯 I’m looking to collaborate on Data Science.
 - 🤔 I’m looking for help with React JS.
 - 💬 Ask me about Anything.
