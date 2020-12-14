@@ -22,7 +22,7 @@
 <br> <br>
 
 I am always ready to grab new opportunities which helps me to grow myself. I always consider myself a learner who always wants to learn something new that adds a plus to my knowledge.<br><br>
-I am interested in <b>Python</b> and <b>Data Science</b>. Also, I like to <b>Web Development</b>.<br>
+I am interested in <b>Python</b> and <b>Data Science</b>. Also, I like <b>Web Development</b>.<br>
 I have learnt Wordpress on my own and created my own blog website. Check it out here: https://troupertech.com<br>
 <br>
 I am searching for new opportunities to explore and learn about these fields. 
