@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/ganpat_patel_luni/">
   <img align="left" alt="Ganpat Patel| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br> <br>
 
 
 I am always ready to grab new opportunities which helps me to grow myself. I always consider myself a learner who always wants to learn something new that adds a plus to my knowledge.<br><br>
