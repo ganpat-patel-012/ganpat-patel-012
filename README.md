@@ -20,7 +20,6 @@
   <img align="left" alt="Ganpat Patel| Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
 </a>
 <br> <br>
-<hr>
 
 I am always ready to grab new opportunities which helps me to grow myself. I always consider myself a learner who always wants to learn something new that adds a plus to my knowledge.<br><br>
 I am interested in <b>Python</b> and <b>Data Science</b>. Also, I like to <b>Web Development</b>.<br>
