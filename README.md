@@ -31,7 +31,7 @@ I am searching for new opportunities to explore and learn about these fields.
 <hr>
 <br>
 
-**Languages:**  
+<h2><b>Languages:<b> </h2>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg"></code>
 <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png"></code>
@@ -43,7 +43,7 @@ I am searching for new opportunities to explore and learn about these fields.
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/603/603201.svg"></code>
 <br> <br>
 
-**Tools:**
+<h2><b>Tools:<b> </h2><br>
 <code><img height="40" src="https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/wordpress-512.png"></code>
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"></code>
 <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_word-512.png"></code>
