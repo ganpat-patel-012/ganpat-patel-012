@@ -31,14 +31,26 @@ I am searching for new opportunities to explore and learn about these fields.
 <hr>
 <br>
 
-**Languages and Tools:**  
+**Languages:**  
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919841.svg"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png"></code>
+<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-php-software-develop-command-language-512.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/603/603201.svg"></code>
+<br> <br>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+**Tools:**
+<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/wordpress-512.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_word-512.png"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_powerpoint-512.png"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>
 <br><br>
 
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ganpat-patel-012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ganpat-patel-012.github.io/)
