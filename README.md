@@ -2,22 +2,22 @@
   
 
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
-  <img align="left" alt="Ganpat Patel| Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ganpat Patel| Linkedin" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a href="https://ab007shetty.github.io/">
-  <img align="left" alt="Ganpat Patel| Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ganpat Patel| Github" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
 </a>
 <a href="https://troupertech.com">
-  <img align="left" alt="Ganpat Patel| Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/micro-dot-blog.svg" />
+  <img align="left" alt="Ganpat Patel| Blog" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1187/1187544.svg" />
 </a>
 <a href="https://twitter.com/Ganpat_Patel_12/">
-  <img align="left" alt="Ganpat Patel| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ganpat Patel| Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
  </a>
  <a href="https://www.facebook.com/ganpatpatel.luni">
-  <img align="left" alt="Ganpat Patel| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Ganpat Patel| Facebook" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" />
  </a>
 <a href="https://www.instagram.com/ganpat_patel_luni/">
-  <img align="left" alt="Ganpat Patel| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ganpat Patel| Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
 </a>
 <br> <br>
 
