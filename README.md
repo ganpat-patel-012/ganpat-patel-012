@@ -54,6 +54,7 @@ I am searching for new opportunities to explore and learn about these fields.
   
 <hr>
  <h3><b>GitHubActivity:</b></h3><br> 
+ 
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ganpat-patel-012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ganpat-patel-012.github.io/)
 
 <br>
