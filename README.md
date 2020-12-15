@@ -25,10 +25,8 @@ I am always ready to grab new opportunities which helps me to grow myself. I alw
 I am interested in <b>Python</b> and <b>Data Science</b>. Also, I like <b>Web Development</b>.<br>
 I have learnt Wordpress on my own and created my own blog website. Check it out here: https://troupertech.com<br>
 <br>
-I am searching for new opportunities to explore and learn about these fields. 
-<br>
+I am searching for new opportunities to explore and learn about these fields. <br>
 <hr>
-<br>
 
 <h2><b>Languages:<b> </h2>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
@@ -58,6 +56,9 @@ I am searching for new opportunities to explore and learn about these fields.
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ganpat-patel-012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ganpat-patel-012.github.io/)
 
 <br>
+<hr>
+
+<h2><b>Quick information:<b> </h2>
 
 - 🔭 I’m currently working on TapShip - Final year project.
 - 🌱 I’m currently learning Data Science (Mid) and React JS.
