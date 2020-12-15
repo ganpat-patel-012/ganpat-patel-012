@@ -1,6 +1,5 @@
 <h2><b> Hi, I am Ganpat Patel 💻😊<b> </h2>
   
-<br>
 <h3><b>Follow me:</b></h3><br>
 <a href="https://www.linkedin.com/in/ganpat-patel/">
   <img align="left" alt="Ganpat Patel| Linkedin" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
