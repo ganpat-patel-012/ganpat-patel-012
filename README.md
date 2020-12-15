@@ -51,7 +51,9 @@ I am searching for new opportunities to explore and learn about these fields.
 <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png"></code>
 <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>
 <br><br>
-
+  
+<hr>
+ <h3><b>GitHubActivity:</b></h3><br> 
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ganpat-patel-012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ganpat-patel-012.github.io/)
 
 <br>
