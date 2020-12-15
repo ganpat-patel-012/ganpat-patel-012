@@ -21,7 +21,7 @@
 </a>
 <br> <br>
 
-I am always ready to grab new opportunities that help me develop myself. I always consider myself a learner who always wants to learn something new which adds another to my knowledge.<br>
+I am always ready to grab new opportunities that help me to develop my skills. I always consider myself as a learner who always wants to learn something new which add one more plus to my knowledge..<br>
 
 I am interested in Python, Data Science, and Web development.<br>
 I have learned WordPress on my own and have created my own blog website.<br>
