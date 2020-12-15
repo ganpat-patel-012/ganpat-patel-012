@@ -27,7 +27,7 @@ I am interested in Python, Data Science, and Web development.<br>
 I have learned WordPress on my own and have created my own blog website.<br>
 Check it out here: https://troupertech.com<br>
 
-I am looking for new work opportunities to learn and learn about the tech industry.
+I am looking for new work opportunities to learn more and get experience about the tech industry.
 <hr>
 
 <h3><b>Languages:<b> </h3>
