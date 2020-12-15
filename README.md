@@ -21,11 +21,13 @@
 </a>
 <br> <br>
 
-I am always ready to grab new opportunities which helps me to grow myself. I always consider myself a learner who always wants to learn something new that adds a plus to my knowledge.<br><br>
-I am interested in <b>Python</b> and <b>Data Science</b>. Also, I like <b>Web Development</b>.<br>
-I have learnt Wordpress on my own and created my own blog website. Check it out here: https://troupertech.com<br>
-<br>
-I am searching for new opportunities to explore and learn about these fields. <br>
+I am always ready to grab new opportunities that help me develop myself. I always consider myself a learner who always wants to learn something new which adds another to my knowledge.<br><br>
+
+I am interested in Python and Data Science. Other than that, I like web development.<br>
+I have learned WordPress on my own and have created my own blog website.<br>
+Check it out here: https://troupertech.com<br>
+
+I am looking for new work opportunities to learn and learn about the tech industry.
 <hr>
 
 <h3><b>Languages:<b> </h3>
