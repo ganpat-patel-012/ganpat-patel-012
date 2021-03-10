@@ -58,6 +58,10 @@ I am looking for new work opportunities to learn more and get experience about t
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ganpat-patel-012&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ganpat-patel-012.github.io/)
 
 <hr>
+ <h3><b>Language Meter:</b></h3><br> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganpat-patel-012&layout=compact" alt="ganpat-patel-012" /></p>
+
+<hr>
 
 <h3><b>Quick information:<b> </h3>
 
