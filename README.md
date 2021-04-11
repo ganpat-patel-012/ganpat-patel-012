@@ -31,7 +31,7 @@ Check it out here: https://troupertech.com<br>
 I am looking for new work opportunities to learn more and get experience about the tech industry.
 <hr>
 
-![](https://komarev.com/ghpvc/?username=ganpat-patel-012)
+Profile View: ![](https://komarev.com/ghpvc/?username=ganpat-patel-012)
 <hr>
 <br>
 
