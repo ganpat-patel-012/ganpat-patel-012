@@ -29,9 +29,8 @@ I have learned WordPress on my own and have created my own blog website.<br>
 Check it out here: https://troupertech.com<br>
 
 I am looking for new work opportunities to learn more and get experience about the tech industry.
-<hr>
 
-Profile View: ![](https://komarev.com/ghpvc/?username=ganpat-patel-012)
+Profile View:  ![](https://komarev.com/ghpvc/?username=ganpat-patel-012)
 <hr>
 <br>
 
