@@ -21,8 +21,6 @@
 </a>
 <br> <br>
 
-<https://komarev.com/ghpvc/?username=ganpat-patel-012)
-<br>
 
 I am always ready to grab new opportunities that help me to develop my skills. I always consider myself as a learner who always wants to learn something new which add one more plus to my knowledge..<br>
 
@@ -32,6 +30,9 @@ Check it out here: https://troupertech.com<br>
 
 I am looking for new work opportunities to learn more and get experience about the tech industry.
 <hr>
+
+Profile Views :(https://komarev.com/ghpvc/?username=ganpat-patel-012)
+<br>
 
 <h3><b>Languages:<b> </h3>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
