@@ -5,7 +5,7 @@ I am interested in Data Science, Data Analytics and Machine Learning.<br>
 
 I am looking for new work opportunities to learn more andget experience in the tech industry.
   
-<h3><b>Follow me:</b></h3><br>
+<h3><b>Follow me:</b></h3>
 
 <a href="https://www.linkedin.com/in/ganpat-patel/">
   <h3>LinkedIn</h3>
