@@ -2,23 +2,22 @@
   
 <h3><b>Follow me:</b></h3><br>
 <a href="https://www.linkedin.com/in/ganpat-patel/">
-  <img align="left" alt="Ganpat Patel| Linkedin" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" />
-  <h2>LinkedIn</h2>
+  <h3>LinkedIn</h3>
 </a>
 <a href="https://https://github.com/ganpat-patel-012/">
-  <img align="left" alt="Ganpat Patel| Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
+  <h3>GitHub</h3>
 </a>
-<a href="https://troupertech.com">
-  <img align="left" alt="Ganpat Patel| Blog" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1187/1187544.svg" />
+<a href="https://ganpatpatel.com">
+  <h3>Portfolio Website</h3>
 </a>
 <a href="https://twitter.com/Ganpat_Patel_12/">
-  <img align="left" alt="Ganpat Patel| Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
+  <h3>Twitter</h3>
  </a>
  <a href="https://www.facebook.com/ganpatpatel.luni">
-  <img align="left" alt="Ganpat Patel| Facebook" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" />
+<h3>FaceBook</h3>
  </a>
 <a href="https://www.instagram.com/ganpat_patel_luni/">
-  <img align="left" alt="Ganpat Patel| Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
+ <h3>Instagram</h3>
 </a>
 <br> <br>
 
