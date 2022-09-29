@@ -1,3 +1,5 @@
+<htmL>
+<head>
 <style>
 * {
   box-sizing: border-box;
@@ -18,6 +20,8 @@
   clear: both;
 }
 </style>
+  </head>
+  <body>
 
 <h2><b> Hi, I am Ganpat Patel 💻😊<b> </h2>
   
@@ -103,3 +107,6 @@ Profile View:  ![](https://komarev.com/ghpvc/?username=ganpat-patel-012)
 - 📫 How to reach me: ganpat.patel.012@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I use to forget indentation in python code. But I am improving. OKAY 😅😄
+  
+  <body>
+    </html>
