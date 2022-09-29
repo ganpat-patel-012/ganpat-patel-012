@@ -1,49 +1,23 @@
-<htmL>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create three equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-  </head>
-  <body>
-
 <h2><b> Hi, I am Ganpat Patel 💻😊<b> </h2>
   
+I am always ready to grab new opportunities that help me to develop my skills. I always consider myself as a learner who always wants to learn something new which add one more plus to my knowledge..<br>
+I am interested in Data Science, Data Analytics and Machine Learning.br>
+
+I am looking for new work opportunities to learn more andget experience in the tech industry.
+  
 <h3><b>Follow me:</b></h3><br>
-<div class="row">
-  <div class="column">
+
 <a href="https://www.linkedin.com/in/ganpat-patel/">
   <h3>LinkedIn</h3>
 </a>
 <a href="https://https://github.com/ganpat-patel-012/">
   <h3>GitHub</h3>
-  </div>
-    <div class="column">
 </a>
 <a href="https://ganpatpatel.com">
   <h3>Portfolio Website</h3>
 </a>
 <a href="https://twitter.com/Ganpat_Patel_12/">
   <h3>Twitter</h3>
-  </div>
-  <div class="column">
  </a>
  <a href="https://www.facebook.com/ganpatpatel.luni">
 <h3>FaceBook</h3>
@@ -51,15 +25,7 @@
 <a href="https://www.instagram.com/ganpat_patel_luni/">
  <h3>Instagram</h3>
 </a>
-   <div>
-</div>
-<br> <br>
-
-
-I am always ready to grab new opportunities that help me to develop my skills. I always consider myself as a learner who always wants to learn something new which add one more plus to my knowledge..<br>
-I am interested in Data Science, Data Analytics and Machine Learning.br>
-
-I am looking for new work opportunities to learn more andget experience in the tech industry.
+<br>
 
 Profile View:  ![](https://komarev.com/ghpvc/?username=ganpat-patel-012)
 <hr>
@@ -108,6 +74,3 @@ Profile View:  ![](https://komarev.com/ghpvc/?username=ganpat-patel-012)
 - 📫 How to reach me: ganpat.patel.012@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I use to forget indentation in python code. But I am improving. OKAY 😅😄
-  
-  <body>
-    </html>
