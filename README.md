@@ -2,7 +2,7 @@
   
 <h3><b>Follow me:</b></h3><br>
 <a href="https://www.linkedin.com/in/ganpat-patel/">
-  <img align="left" alt="Ganpat Patel| Linkedin" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img align="left" alt="Ganpat Patel| Linkedin" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" />
 </a>
 <a href="https://https://github.com/ganpat-patel-012/">
   <img align="left" alt="Ganpat Patel| Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
