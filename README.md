@@ -14,8 +14,6 @@
 
 Data Engineer with **3.5+ years of experience** designing and building scalable data platforms. I specialize in real-time data ingestion, orchestrated workflows, distributed processing, and cloud infrastructure across **GCP, Azure, and AWS**.
 
-Currently pursuing a **Master's in Computer Science (Data Science & Analytics)** at **EPITA, Paris**.
-
 ---
 
 ## Tech Stack
@@ -28,15 +26,15 @@ Currently pursuing a **Master's in Computer Science (Data Science & Analytics)**
 
 **Orchestration & Streaming**
 
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-**Data Processing**
+**Transformation & Processing**
 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logoColor=white)
 
 **Cloud Platforms**
 
@@ -44,27 +42,54 @@ Currently pursuing a **Master's in Computer Science (Data Science & Analytics)**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-**Data Warehouses & Databases**
+**Data Warehouses**
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
 
 **Infrastructure & DevOps**
 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-**Visualization & Monitoring**
+**Visualisation & Monitoring**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Platforms & Apps**
+
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat-square&logo=dataiku&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+
+**Soft Skills**
+
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Execution-4A90D9?style=flat-square)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-Strategy-4A90D9?style=flat-square)
+![Storytelling](https://img.shields.io/badge/Storytelling-Communication-4A90D9?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Collaboration-Teamwork-4A90D9?style=flat-square)
+![Ideation](https://img.shields.io/badge/Ideation-Creativity-4A90D9?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-Execution-4A90D9?style=flat-square)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-Communication-4A90D9?style=flat-square)
+![Ownership](https://img.shields.io/badge/Ownership-Leadership-4A90D9?style=flat-square)
+![Prioritization](https://img.shields.io/badge/Prioritization-Execution-4A90D9?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-Leadership-4A90D9?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time_Management-Execution-4A90D9?style=flat-square)
+![Decision Making](https://img.shields.io/badge/Decision_Making-Strategy-4A90D9?style=flat-square)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-Execution-4A90D9?style=flat-square)
+![Business Acumen](https://img.shields.io/badge/Business_Acumen-Strategy-4A90D9?style=flat-square)
 
 ---
 
@@ -91,7 +116,6 @@ Currently pursuing a **Master's in Computer Science (Data Science & Analytics)**
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| M.Sc. Computer Science — Data Science & Analytics | EPITA, Paris | 2024 – 2026 |
 | MBA — Business Analytics *(GPA: 9.21)* | Manipal Academy of Higher Education | 2023 – 2025 |
 | B.E. Computer Science & Engineering *(CGPA: 7.92)* | Visvesvaraya Technological University | 2017 – 2021 |
 
@@ -103,22 +127,6 @@ Currently pursuing a **Master's in Computer Science (Data Science & Analytics)**
 - Databricks Certified Data Engineer **Professional**
 - Microsoft Azure Fundamentals (**AZ-900**)
 - Microsoft Azure Data Fundamentals (**DP-900**)
-
----
-
-## Featured Projects
-
-**The Flight Detective** · *Airflow · Streamlit · Grafana · Great Expectations*
-> Streamlit app predicting flight prices with automated pipelines, data validation, and real-time monitoring.
-
-**Fake News Detection** · *LSTM · GRU · TextCNN · RoBERTa*
-> Deep learning and LLM-based classification pipeline for detecting fake news at scale.
-
-**Azure ADF Pipeline Suite** · *Azure Data Factory · Hive*
-> 40+ production pipelines managing 1,500+ Hive assets; improved pipeline success rate by 6%.
-
-**Neo4j Knowledge Graph POC** · *Neo4j · Graph Analytics*
-> Graph analytics MVP modeling disease trends for a Fortune 500 healthcare client.
 
 ---
 
