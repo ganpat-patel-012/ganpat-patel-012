@@ -126,7 +126,11 @@ Currently pursuing a **Master's in Computer Science (Data Science & Analytics)**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ganpat-patel-012&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganpat-patel-012&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganpat-patel-012&theme=github_dark" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ganpat-patel-012&theme=dark&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
 ---
